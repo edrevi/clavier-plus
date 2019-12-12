@@ -1,7 +1,7 @@
 //{{NO_DEPENDENCIES}}
 // Microsoft Visual C++ generated include file.
 // Used by Clavier.rc
-//
+////
 #define IDCCMD_ABOUT                    3
 #define IDCCMD_LANGUAGE                 4
 #define IDCCMD_COPYLIST                 5
